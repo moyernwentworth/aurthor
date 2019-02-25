@@ -1,2 +1,2 @@
-# aurthor
+# arthur
 for our class
